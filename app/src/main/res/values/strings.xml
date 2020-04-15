@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app2</string>
+    <string-array name="planets_array">
+        <item>Mỹ</item>
+        <item>Hàn Quốc</item>
+        <item>Nhật</item>
+        <item>Anh</item>
+
+    </string-array>
+</resources>
